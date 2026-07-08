@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://crea2media.com/wp-content/uploads/2025/06/s-blob-v1-IMAGE-Z13bjDkeiA.png" alt="Logo Crea2media" width="200" />
+</p>
+
 <h1 align="center">Salut, moi c'est Fred 👋</h1>
 
 <p align="center">
@@ -34,7 +38,7 @@ J'aime créer des interfaces simples, utiles et orientées terrain.
 Développement de modules personnalisés, automatisations, interfaces back-office et optimisations front.
 
 ### 🖥️ Modules Dolibarr
-Développement de modules métier orienté ERP / CRM avec Dolibarr.
+Développement de modules métiers orientés ERP / CRM avec Dolibarr.
 
 ### 🛒 E-commerce
 Création d'outils pour améliorer la gestion produit, le SAV, les fiches techniques et l'expérience client.
