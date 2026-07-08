@@ -33,6 +33,9 @@ J'aime créer des interfaces simples, utiles et orientées terrain.
 ### 🔧 Modules PrestaShop
 Développement de modules personnalisés, automatisations, interfaces back-office et optimisations front.
 
+### 🖥️ Modules Dolibarr
+Développement de modules métier orienté ERP / CRM avec Dolibarr.
+
 ### 🛒 E-commerce
 Création d'outils pour améliorer la gestion produit, le SAV, les fiches techniques et l'expérience client.
 
