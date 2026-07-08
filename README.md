@@ -41,18 +41,6 @@ Applications internes pour automatiser les tâches répétitives et gagner du te
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fefed22&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefed22&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Me contacter
 
 <p>
