@@ -27,7 +27,7 @@
 
 <a name="a-propos"></a>
 
-## 👨‍💻 À propos
+## <img src="./assets/icons/about.svg" width="40" height="40" alt="" /> À propos
 
 Je développe des modules, des outils métiers et des solutions e-commerce autour de **PHP, PrestaShop, Dolibarr, JavaScript et MySQL**.
 
@@ -36,15 +36,18 @@ J'aime transformer les besoins du quotidien en interfaces claires et pratiques :
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🌐 Web</h3>
+      <p><img src="./assets/icons/web.svg" width="64" height="64" alt="" /></p>
+      <h3>Web</h3>
       <p>Modules sur mesure, e-commerce et applications métiers.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>📱 Mobile</h3>
+      <p><img src="./assets/icons/mobile.svg" width="64" height="64" alt="" /></p>
+      <h3>Mobile</h3>
       <p>Des usages pensés pour la mobilité et les interactions tactiles.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>💻 macOS</h3>
+      <p><img src="./assets/icons/macos.svg" width="64" height="64" alt="" /></p>
+      <h3>macOS</h3>
       <p>Des outils de bureau pour simplifier le travail sur Mac.</p>
     </td>
   </tr>
@@ -52,26 +55,30 @@ J'aime transformer les besoins du quotidien en interfaces claires et pratiques :
 
 <a name="web"></a>
 
-## 🌐 Web & e-commerce
+## <img src="./assets/icons/web.svg" width="40" height="40" alt="" /> Web & e-commerce
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔧 Modules PrestaShop</h3>
+      <p><img src="./assets/icons/prestashop.svg" width="64" height="64" alt="" /></p>
+      <h3>Modules PrestaShop</h3>
       <p>Modules personnalisés, automatisations, interfaces back-office et optimisations front.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗂️ Modules Dolibarr</h3>
+      <p><img src="./assets/icons/dolibarr.svg" width="64" height="64" alt="" /></p>
+      <h3>Modules Dolibarr</h3>
       <p>Modules métiers orientés ERP / CRM pour accompagner la gestion de l'activité.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 Solutions e-commerce</h3>
+      <p><img src="./assets/icons/ecommerce.svg" width="64" height="64" alt="" /></p>
+      <h3>Solutions e-commerce</h3>
       <p>Gestion produit, SAV, fiches techniques et amélioration de l'expérience client.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Outils métiers</h3>
+      <p><img src="./assets/icons/tools.svg" width="64" height="64" alt="" /></p>
+      <h3>Outils métiers</h3>
       <p>Applications internes pour automatiser les tâches répétitives et gagner du temps.</p>
     </td>
   </tr>
@@ -79,7 +86,7 @@ J'aime transformer les besoins du quotidien en interfaces claires et pratiques :
 
 <a name="mobile"></a>
 
-## 📱 Applications mobiles
+## <img src="./assets/icons/mobile.svg" width="40" height="40" alt="" /> Applications mobiles
 
 **Emporter les outils là où ils sont utiles.** Le développement mobile prolonge les services web avec des parcours adaptés aux petits écrans et aux usages en déplacement.
 
@@ -89,7 +96,7 @@ J'aime transformer les besoins du quotidien en interfaces claires et pratiques :
 
 <a name="macos"></a>
 
-## 💻 Applications macOS
+## <img src="./assets/icons/macos.svg" width="40" height="40" alt="" /> Applications macOS
 
 **Des applications pour le quotidien sur Mac.** Des utilitaires ciblés et des outils de bureau pour faciliter les tâches récurrentes et retrouver ses informations au même endroit.
 
@@ -99,7 +106,7 @@ J'aime transformer les besoins du quotidien en interfaces claires et pratiques :
 
 <a name="technologies"></a>
 
-## 🛠️ Technologies
+## <img src="./assets/icons/technologies.svg" width="40" height="40" alt="" /> Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,bootstrap,git,github,linux&perline=9" alt="PHP, JavaScript, HTML, CSS, MySQL, Bootstrap, Git, GitHub et Linux" />
@@ -116,7 +123,7 @@ J'aime transformer les besoins du quotidien en interfaces claires et pratiques :
 
 <a name="contact"></a>
 
-## 📫 Contact
+## <img src="./assets/icons/contact.svg" width="40" height="40" alt="" /> Contact
 
 Un projet web, une application mobile ou un outil pour Mac ? Retrouvez-moi sur **[crea2media.com](https://crea2media.com)**.
 
